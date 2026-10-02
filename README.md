@@ -246,7 +246,6 @@ AWS/cloud concepts mentioned in this README are used to explain how the networki
 Harshit Saini
 
 ECE & AIML Undergraduate  
-Exploring Cloud Computing, Linux, AWS, Networking & Automation
 
 GitHub: https://github.com/hxrshits
 
